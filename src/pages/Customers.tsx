@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Customer } from "../types/customer";
 import { customerService } from "../services/customerService";
-import Modal from "../components/ui/modal";
+import Modal from "../components/ui/Modal";
 import Button from "../components/ui/Button";
 
 const Customers = () => {

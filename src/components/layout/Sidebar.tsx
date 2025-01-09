@@ -26,7 +26,7 @@ const Sidebar = () => {
     { path: '/orders', icon: ShoppingCart, label: 'Orders' },
     { path: '/customers', icon: User, label: 'Customers' },
     { path: '/reports', icon: BarChart2, label: 'Reports' },
-    { path: '/users', icon: Users, label: 'Users' },
+    // { path: '/users', icon: Users, label: 'Users' },
     { path: '/delivery-schedule', icon: Clock, label: 'Delevery Schedule' },
     { path: '/delivery-Agents', icon: Briefcase, label: 'Delevery Agents' },
   ];

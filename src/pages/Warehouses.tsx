@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { warehouseService } from '../services/warehouseService';
 import { Warehouse } from '../types/warehouse';
 import Button from '../components/ui/Button';
-import Modal from '../components/ui/modal';
+import Modal from '../components/ui/Modal';
 import { Plus } from 'lucide-react';
 
 const Warehouses = () => {

@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className="w-8 h-8 bg-gray-200 rounded-full flex items-center justify-center">
             <User size={20} />
           </div>
-          <span className="text-sm font-medium">Admin User</span>
+          <span className="text-sm font-medium">Admin: KelvinPrabhu</span>
         </div>
       </div>
     </div>
